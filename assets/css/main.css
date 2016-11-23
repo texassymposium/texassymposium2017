@@ -2527,16 +2527,59 @@
 				/*background-size: 80em 60em;*/
 				height: 35em;
 				text-align: center;
-				vertical-align: middle;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				/*vertical-align: middle;*/
 			}
 
 			#conf-section{
 				background-image: url("../../images/banner.jpg");
 				background-position: center center;
 				background-size: cover;
-				height: 28em;
+				height: 38em;
 				text-align: center;
+				font-weight: bold;
 
+			}
+
+			.round-cal-img{
+				background-image: url("../../images/calendar.jpg") !important;
+				background-position: center center;
+				background-size: cover;
+			}
+
+			.round-paper-call-img{
+				background-image: url("../../images/call.jpg") !important;
+				background-position: center center;
+				background-size: cover;
+			}
+
+			.round-submit-img{
+				background-image: url("../../images/submit.jpg") !important;
+				background-position: center center;
+				background-size: cover;
+			}
+
+			#callPaperBlueBontBanner{
+				background-image: url("../../images/TexasBlueBonett.jpg");
+				background-position: center center;
+				background-size: cover;
+				background-repeat: no-repeat;
+				height: 35em;
+				text-align: center;
+				/*vertical-align: middle;*/
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				position: relative;
+
+			}
+
+			.callPaperTxt h2{
+				color: #fff;
+				font-weight: bold;
+				text-align: center;
 			}
 
 			.conf-content {
