@@ -2573,6 +2573,12 @@
 				background-size: cover;
 			}
 
+			.box-poster-img{
+				background-image: url("../../images/poster-icon.jpg") !important;
+				background-position: center center;
+				background-size: cover;
+			}
+
 			.round-register-img{
 				background-image: url("../../images/registration.png") !important;
 				background-position: center center;
