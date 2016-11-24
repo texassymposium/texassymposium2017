@@ -2561,6 +2561,25 @@
 				background-size: cover;
 			}
 
+			.round-toolkit-img{
+				background-image: url("../../images/toolkit.jpg") !important;
+				background-position: center center;
+				background-size: cover;
+			}
+
+			.round-copy-img{
+				background-image: url("../../images/Copyright.png") !important;
+				background-position: center center;
+				background-size: cover;
+			}
+
+			.round-register-img{
+				background-image: url("../../images/registration.png") !important;
+				background-position: center center;
+				background-size: cover;
+			}
+
+
 			#callPaperBlueBontBanner{
 				background-image: url("../../images/TexasBlueBonett.jpg");
 				background-position: center center;
