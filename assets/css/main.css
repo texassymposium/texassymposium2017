@@ -2616,6 +2616,11 @@
 				margin-bottom: 5%;
 			}
 
+			.sponsorTxt {
+				font-weight: bold;
+				text-align: center;
+			}
+
 /* Wrapper */
 
 	.wrapper {
