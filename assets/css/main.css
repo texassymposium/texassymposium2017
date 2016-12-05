@@ -2615,6 +2615,20 @@
 				text-align: center;
 			}
 
+			.paper-instructions:active{
+				color: #fff !important;
+
+			}
+
+
+			.paper-instructions:hover {
+				color: #fff !important;
+			}
+
+			.paper-instructions:visited{
+				color: #fff !important;
+			}
+
 /* Wrapper */
 
 	.wrapper {
