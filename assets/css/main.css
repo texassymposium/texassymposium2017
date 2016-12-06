@@ -3277,7 +3277,7 @@
 
 /* Photo Gallery*/
 #photo-gallery {
-    width: 800px;
+    /*width: 800px;*/
     height: 400px;
     overflow: hidden;
     position: relative;
@@ -3285,7 +3285,7 @@
     margin: 20px auto;
 }
 #photo-gallery img {
-    width: 800px;
+    /*width: 800px;*/
     height: 400px;
 
     position: absolute;
