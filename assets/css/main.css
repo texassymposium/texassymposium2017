@@ -3277,16 +3277,16 @@
 
 /* Photo Gallery*/
 #photo-gallery {
-    width: 400px;
-    height: 250px;
+    width: 700px;
+    height: 350px;
     overflow: hidden;
     position: relative;
 
     margin: 20px auto;
 }
 #photo-gallery img {
-    width: 400px;
-    height: 250px;
+    width: 700px;
+    height: 350px;
 
     position: absolute;
     top: 0;
@@ -3319,4 +3319,11 @@
 }
 #gallery-slider a:hover {
     background: #C6E4F2;
+}
+
+.gallery-slider-position
+{
+	overflow: hidden;
+	position: relative;
+	margin-left: 40%;
 }
