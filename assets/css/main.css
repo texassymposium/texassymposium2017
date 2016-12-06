@@ -3277,16 +3277,16 @@
 
 /* Photo Gallery*/
 #photo-gallery {
-    width: 700px;
-    height: 350px;
+    width: 800px;
+    height: 400px;
     overflow: hidden;
     position: relative;
 
     margin: 20px auto;
 }
 #photo-gallery img {
-    width: 700px;
-    height: 350px;
+    width: 800px;
+    height: 400px;
 
     position: absolute;
     top: 0;
